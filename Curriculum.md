@@ -49,6 +49,7 @@ Build the bedrock of technical knowledge to understand how systems work.
 
 ### 1.1 Technical Core
 **Duration**: 6 weeks
+
 **Learning Objective**: Transition from writing code to engineering robust, efficient software components.
 
 #### 1.1.1 Proficiency in 1-2 OOP/System
@@ -65,6 +66,7 @@ Build the bedrock of technical knowledge to understand how systems work.
 
 ### 1.2 System Basics
 **Duration**: 6 weeks
+
 **Learning Objective**: Comprehend the environment in which software runs, from the OS to the network.
 
 #### 1.2.1 Operating Systems Fundamentals
@@ -86,6 +88,7 @@ Learn to design, integrate, and deploy complex systems.
 
 ### 2.1 Design & Architecture
 **Duration**: 8 weeks
+
 **Learning Objective**: Apply patterns and practices to design cohesive, maintainable systems.
 
 #### 2.1.1 Design Principles & Patterns
@@ -102,6 +105,7 @@ Learn to design, integrate, and deploy complex systems.
 
 ### 2.2 Platform & DevOps
 **Duration**: 8 weeks
+
 **Learning Objective**: Build and operate systems in cloud environments.
 
 #### 2.2.1 Cloud Computing Core
@@ -118,6 +122,7 @@ Learn to design, integrate, and deploy complex systems.
 
 ### 2.3 Quality & Analysis
 **Duration**: 4 weeks
+
 **Learning Objective**: Systematically model systems and guarantee they meet quality requirements.
 
 #### 2.3.1 System Modeling & Design Documents
@@ -135,6 +140,7 @@ Evolve from technical design to strategic leadership and enterprise impact.
 
 ### 3.1 Enterprise Strategy
 **Duration**: 8 weeks
+
 **Learning Objective**: Align technology strategy with business goals, manage risk, and optimise costs.
 
 #### 3.1.1 Enterprise Architecture
@@ -151,6 +157,7 @@ Evolve from technical design to strategic leadership and enterprise impact.
 
 ### 3.2 Leadership & Soft Skills
 **Duration**: 6 weeks
+
 **Learning Objective**: Communicate effectively, lead technical teams, and make durable decisions.
 
 #### 3.2.1 Stakeholder Communication
