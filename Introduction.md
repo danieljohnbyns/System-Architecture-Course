@@ -45,7 +45,7 @@ graph TD
 
 ```
 
-## References
+## Reading & Resources
 
 1. **Aras.** (2026). *System Architecture Glossary.* Retrieved from [https://aras.com/en/glossary/system-architecture](https://aras.com/en/glossary/system-architecture)
 2. **Pareek, K.** (2025). *Architecture of a System.* GeeksforGeeks. Retrieved from [https://www.geeksforgeeks.org/system-design/architecture-of-a-system/](https://www.geeksforgeeks.org/system-design/architecture-of-a-system/)
