@@ -6,7 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Phase 1: Foundation](#phase-1-foundation)
     - [1.1 Technical Core](#11-technical-core)
-      - [1.1.1 Proficiency in 1-2 OOP/Systems Languages](#111-proficiency-in-1-2-oopsystems-languages)
+      - [1.1.1 Object-Oriented \& Systems Programming](#111-object-oriented--systems-programming)
       - [1.1.2 Data Structures \& Algorithms](#112-data-structures--algorithms)
       - [1.1.3 Development Tool Proficiency](#113-development-tool-proficiency)
     - [1.2 System Basics](#12-system-basics)
@@ -58,9 +58,9 @@ Build the bedrock of technical knowledge to understand how systems work.
 
 **Learning Objective**: Transition from writing code to engineering robust, efficient software components.
 
-#### 1.1.1 Proficiency in 1-2 OOP/Systems Languages
-  * **Core Concepts**: Deep understanding of one primary language (Java, C#, or Go), including memory management, concurrency models, and idiomatic design.
-  * **Practical Output**: Refactor a procedural script into a well-structured OOP application with proper interfaces and error handling.
+#### 1.1.1 Object-Oriented & Systems Programming
+  * **Core Concepts**: OOP principles (encapsulation, inheritance, polymorphism, abstraction); systems programming concepts (memory management, pointers, concurrency).
+  * **Practical Output**: Build a small project (e.g., a simple file system or a multi-threaded web server) in an OOP or systems language demonstrating these principles.
 
 #### 1.1.2 Data Structures & Algorithms
   * **Core Concepts**: Analysis of time/space complexity; mastery of trees, graphs, hash tables, and their real-world application in system design (e.g., indexes, routing).
