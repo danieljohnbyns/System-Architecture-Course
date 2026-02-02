@@ -227,6 +227,7 @@ int main() {
 Object-Oriented Programming and Systems Programming are foundational skills for any aspiring system architect. Mastery of these concepts enables you to design software that is modular, maintainable, and efficient. As you progress, always remember to evaluate trade-offs in your architectural decisions, balancing complexity, performance, and scalability.
 
 ## Practical Output
+
 Build a small payment processing system that supports multiple payment gateways (e.g., PayPal, Stripe) using OOP principles. Implement concurrency to handle multiple payment requests simultaneously, ensuring thread safety and efficient memory management.
 
 ## Reading & Resources
